@@ -1,10 +1,10 @@
 # Computer Engineer , Aspiring SOC Analyst
 
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+Technical Skills: Python, SQL, Linux, Wireshark, c++ , java 
 ### Education
-Google IT professional ( ongoing)
+Google IT professional ( ongoing) <br>
 
-Google Cybersecurity Professional (August 2023)
+Google Cybersecurity Professional (August 2023)  <br>
 
 B.S., Computer Engineering| Cyprus International University (February 2023)
 
