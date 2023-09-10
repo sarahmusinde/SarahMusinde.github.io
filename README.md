@@ -3,8 +3,11 @@
 Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 ### Education
 Google IT professional ( ongoing)
+
 Google Cybersecurity Professional (August 2023)
+
 B.S., Computer Engineering| Cyprus International University (February 2023)
+
 ### Work Experience
 junior web development  internship @ Cyprus Codes (April 2023 - May 2023)
 
