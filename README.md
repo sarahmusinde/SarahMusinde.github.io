@@ -1,11 +1,13 @@
 # COMPUTER ENGINEER , PROGRAMMER, ASPIRING SOC ANALYST
-###Education
+### Education
+
+### Skills
 
 
-###Work Experience
+### Work Experience
 
 
-###Projects
+### Projects
 
 
-###Certification
+### Certification
