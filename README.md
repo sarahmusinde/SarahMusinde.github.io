@@ -1,6 +1,6 @@
 # Computer Engineer , Aspiring SOC Analyst
 
-Technical Skills: Python, SQL, Linux, Wireshark, c++ , java 
+Technical Skills: Python, SQL, Linux, Wireshark, c++ , java , computer networking fundamentals 
 ### Education
 Google IT professional ( ongoing) <br>
 
