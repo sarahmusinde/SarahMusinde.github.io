@@ -20,3 +20,8 @@ Applied unsupervised deep learning approaches to longitudinal ICU data to discov
 ### Projects
 
 ### certifications 
+
+#### Google Cybersecurity Professional certificate August 2023 <br>
+https://www.coursera.org/account/accomplishments/professional-cert/A8VEQU7P93D3
+#### Wireshark basic for network Analysis  August 2023 <br>
+https://www.coursera.org/account/accomplishments/verify/J64HSWEC6VZE
